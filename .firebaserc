@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-mdr": {
+      "hosting": {
+        "micash": [
+          "ingreso-egreso-app-mdr"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-mdr"
+  }
+}
